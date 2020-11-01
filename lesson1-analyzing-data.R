@@ -62,3 +62,4 @@ plot(apply(dat,2,max))
 plot(apply(dat,2,min))
 
 plot(apply(dat,2,sd))
+
